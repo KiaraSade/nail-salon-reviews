@@ -1,0 +1,7 @@
+Reviewer: Alice
+Rating: 4/5
+Feedback: Great service!
+
+Reviewer: Bob
+Rating: 5/5
+Feedback: Loved it!
